@@ -9,10 +9,11 @@ AI - powered preventive health monitoring system that provides health analysis, 
 - Future IoT & Wearable Integration
 
 ## Tech Stack
-- Python
-- Streamlit
-- Scikit-learn
-- Plotly
+- Frontend: Streamlit 
+- Backend: Python 
+- Database: AWS DynamoDB (planned integration)
+- AI: Scikit-learn, Pandas, NumPy
+- Development Tools: GitHub
 
 ## Current Status 
 - Currently under development for VoltHacks 2026 
